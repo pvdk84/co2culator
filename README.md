@@ -1,6 +1,4 @@
-# co2culator
-
-App with which co2 / carbon footprint can be calculated.
+An app with which co2 / carbon footprint can be calculated.
 
 Set some unit amount that can be spent per day/week/month/year.
 
